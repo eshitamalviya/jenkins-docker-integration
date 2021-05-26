@@ -3,6 +3,10 @@ guess = 0
 cscore = 0
 uscore = 0
 q=0
+
+def functionname():
+    pass 
+
 while(1):
  choiceuser = input("Enter your choice from -> snake, water, gun\n")
  if 0<=guess<=4:

@@ -5,7 +5,7 @@ uscore = 0
 q=0
 
 def functionname():
-    pass 
+    pass
 
 while(1):
  choiceuser = input("Enter your choice from -> snake, water, gun\n")
